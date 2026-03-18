@@ -15,3 +15,24 @@
 **I really enjoy creating things: a beautiful melody on a musical instrument, designing a castle in a computer game, or customizing an operating system.**
 
 **Love learning things and always try to structure the information I receive.**
+
+## 💡 **My qualities**:
+
+| Quality                               | Ok     |
+| :---                                  | :----: |
+| 🤗 Very friendly                     | ✅     |
+| 🚀 Purposeful                        | ✅     |
+| 🎓 Constantly learning something new | ✅     |
+| 👍 I bring any case to completion    | ✅     |
+
+## 💡 **What am I learning?**
+
+**I am currently learning the basics of several languages ​​and have just started at a wonderful school called RSSCHOOL.**
+
+| Dev lang 🖥     | Description ✏️     | Where it is applied 💾        |
+|:---            |:---                  |:---                           |
+| **HTML**       | Markup language      | Creating website markup       |
+| **CSS**        | Stylization language | Styling website pages         |
+| **JavaScript** | Programming language | Creating interactive websites |
+
+</div>
